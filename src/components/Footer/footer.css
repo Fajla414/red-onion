@@ -1,0 +1,13 @@
+.footer{
+    background-color: #191919;
+    margin-top: 150px;
+}
+
+.footer .img-fluid{
+    height: 40px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: white;
+}

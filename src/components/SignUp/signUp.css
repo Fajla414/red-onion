@@ -1,0 +1,10 @@
+.sign-up .logo{
+    height: 60px;
+}
+
+.sign-up input{
+    border : none;
+    min-width: 300px;
+    padding: 10px 20px;
+    box-shadow: 0px 0px 10px #e1dfdf;
+}

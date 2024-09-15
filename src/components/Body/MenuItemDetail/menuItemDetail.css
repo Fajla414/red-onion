@@ -1,0 +1,36 @@
+.addToCart-btn {
+    border-radius: 25px !important;
+    padding: 6px 20px !important;
+}
+
+.input-group .btn-first {
+    color: red;
+    border: 1px solid #ccc;
+    border-right: none;
+    border-top-left-radius: 39px !important;
+    transition: .1s ease-in-out;
+    border-bottom-left-radius: 39px !important;
+}
+
+.input-group .btn-second {
+    color: red;
+    border: 1px solid #ccc;
+    border-left: none;
+    transition: .1s ease-in-out;
+    border-radius: 39px;
+}
+
+.input-group .btn:hover{
+    color: white;
+    background-color: #BB2D3B
+}
+
+.form-control2 {
+    border: 1px solid #ccc !important;
+    border-right: none !important;
+    border-left: none !important;
+    max-width: 49px !important;
+    font-weight: 700;
+    font-size: 20px;
+
+}

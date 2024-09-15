@@ -1,0 +1,11 @@
+.place-order  input{
+    border: none;
+    box-shadow: 0px 0px 10px #e1e1e1;
+    background-color: #F5F5F5;
+}
+
+.place-order  textarea{
+    border: none;
+    box-shadow: 0px 0px 10px #e1e1e1;
+    background-color: #F5F5F5;
+}

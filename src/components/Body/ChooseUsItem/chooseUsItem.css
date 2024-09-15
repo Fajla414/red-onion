@@ -1,0 +1,17 @@
+.chooseUs-item{
+    border: none !important;
+    transition: .2s ease;
+}
+
+.chooseUs-item .card-img-top{
+    min-height: 315px;
+    max-height: 315px;
+}
+
+.see-more{
+    text-decoration: none;
+}
+
+.chooseUs-item:hover{
+    box-shadow: 0px 0px 50px #cacaca;
+}
